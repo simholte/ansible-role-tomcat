@@ -1,0 +1,9 @@
+---
+
+tomcat_version: 7.0.67
+http_port: 8080
+hostname: 127.0.0.1
+tomcat_jmx_port: 1099
+tomcat_debug_port: 4914
+admin_username: admin
+admin_password: admin
