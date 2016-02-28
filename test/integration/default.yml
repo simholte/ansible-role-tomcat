@@ -1,0 +1,6 @@
+---
+
+- name: wrapper playbook for kitchen testing tomcat
+    hosts: localhost
+    roles:
+      - tomcat
